@@ -1,0 +1,19 @@
+{
+	"name": "zz.ui.mdl.menu",
+	"version": "20160421.0.0",
+	"description": "module zz.ui.mdl.menu for zz project",
+	"author": {
+		"name": "Popkov Alexander",
+		"email": "popkov.aleksander@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://www.example.com",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alex-popkov/zz.ui.mdl.menu.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
