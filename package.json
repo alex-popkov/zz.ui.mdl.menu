@@ -17,6 +17,8 @@
 	},
 	"dependencies": {
 
-	    "imazzine-developer-kit": ""
+	    "imazzine-developer-kit": "",
+		"zz.ui.mdl": "",
+		"zz.ui.mdl.menuitem": ""
 	}
 }
