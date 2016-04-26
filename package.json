@@ -1,6 +1,6 @@
 {
 	"name": "zz.ui.mdl.menu",
-	"version": "20160421.0.0",
+	"version": "20160425.0.0",
 	"description": "module zz.ui.mdl.menu for zz project",
 	"author": {
 		"name": "Popkov Alexander",
@@ -19,6 +19,8 @@
 
 	    "imazzine-developer-kit": "",
 		"zz.ui.mdl": "",
-		"zz.ui.mdl.menuitem": ""
+		"zz.ui.mdl.menuitem": "",
+		"zz.ui.mdl.button": "",
+		"zz.ui.mdl.ripple": ""
 	}
 }
